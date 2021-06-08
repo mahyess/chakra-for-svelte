@@ -1,0 +1,9 @@
+{
+  "name": "chakra-for-svelte",
+  "version": "0.0.1",
+  "description": "chakra ui wrapper for svelte",
+  "main": "index.js",
+  "repository": "https://github.com/mahyess/chakra-for-svelte",
+  "author": "zeph",
+  "license": "MIT"
+}
